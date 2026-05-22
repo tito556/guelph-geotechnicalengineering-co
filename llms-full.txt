@@ -1,0 +1,51 @@
+# Geotechnicalengineering — Guelph
+
+> Geotechnical engineering services in Guelph, Canada.
+
+## Services
+- [Anchors](https://guelph.geotechnicalengineering.co/anchors/)
+- [Atterberg Limits](https://guelph.geotechnicalengineering.co/atterberg-limits/)
+- [Cbr Road](https://guelph.geotechnicalengineering.co/cbr-road/)
+- [Cpt Test](https://guelph.geotechnicalengineering.co/cpt-test/)
+- [Deep Excavations](https://guelph.geotechnicalengineering.co/deep-excavations/)
+- [Excavation Monitoring](https://guelph.geotechnicalengineering.co/excavation-monitoring/)
+- [Excavations](https://guelph.geotechnicalengineering.co/excavations/)
+- [Flexible Pavement](https://guelph.geotechnicalengineering.co/flexible-pavement/)
+- [Footings](https://guelph.geotechnicalengineering.co/footings/)
+- [Foundations](https://guelph.geotechnicalengineering.co/foundations/)
+- [Grain Size](https://guelph.geotechnicalengineering.co/grain-size/)
+- [Ground Improvement](https://guelph.geotechnicalengineering.co/ground-improvement/)
+- [Grouting](https://guelph.geotechnicalengineering.co/grouting/)
+- [In Situ Permeability](https://guelph.geotechnicalengineering.co/in-situ-permeability/)
+- [Investigation](https://guelph.geotechnicalengineering.co/investigation/)
+- [Lab In Situ](https://guelph.geotechnicalengineering.co/lab-in-situ/)
+- [Laboratory](https://guelph.geotechnicalengineering.co/laboratory/)
+- [Liquefaction](https://guelph.geotechnicalengineering.co/liquefaction/)
+- [Masw](https://guelph.geotechnicalengineering.co/masw/)
+- [Mat Foundations](https://guelph.geotechnicalengineering.co/mat-foundations/)
+- [Piles](https://guelph.geotechnicalengineering.co/piles/)
+- [Proctor Tests](https://guelph.geotechnicalengineering.co/proctor-tests/)
+- [Resistivity](https://guelph.geotechnicalengineering.co/resistivity/)
+- [Retaining Walls](https://guelph.geotechnicalengineering.co/retaining-walls/)
+- [Rigid Pavement](https://guelph.geotechnicalengineering.co/rigid-pavement/)
+- [Road Geotechnics](https://guelph.geotechnicalengineering.co/road-geotechnics/)
+- [Sand Cone Density](https://guelph.geotechnicalengineering.co/sand-cone-density/)
+- [Seismic](https://guelph.geotechnicalengineering.co/seismic/)
+- [Seismic Isolation](https://guelph.geotechnicalengineering.co/seismic-isolation/)
+- [Seismic Microzonation](https://guelph.geotechnicalengineering.co/seismic-microzonation/)
+- [Seismic Refraction](https://guelph.geotechnicalengineering.co/seismic-refraction/)
+- [Slope Stability](https://guelph.geotechnicalengineering.co/slope-stability/)
+- [Slopes](https://guelph.geotechnicalengineering.co/slopes/)
+- [Soft Ground Tunnels](https://guelph.geotechnicalengineering.co/soft-ground-tunnels/)
+- [Spt Drilling](https://guelph.geotechnicalengineering.co/spt-drilling/)
+- [Stone Columns](https://guelph.geotechnicalengineering.co/stone-columns/)
+- [Test Pits](https://guelph.geotechnicalengineering.co/test-pits/)
+- [Triaxial](https://guelph.geotechnicalengineering.co/triaxial/)
+- [Vibrocompaction](https://guelph.geotechnicalengineering.co/vibrocompaction/)
+
+## Contact
+- Website: https://guelph.geotechnicalengineering.co/
+
+## About
+This site provides geotechnical engineering services in Guelph, Canada.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
